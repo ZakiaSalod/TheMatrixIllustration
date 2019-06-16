@@ -1,0 +1,77 @@
+1) Construct a generic algorithm for a 5x5 square matrix with size odd, completed as the shown below. (Read the rules carefully).
+
+Rules: 
+1) If you change the size of the matrix, the answers should remain identical to the illustrations in the A-I questions below.
+2) They should be printed in the way they are illustrated, with only characters 1 to 5 being allowed for the matrix numbers and blank space.
+3) try to build with as few lines as possible.
+4) Use the programming language of your choice, but the algorithm should work in any programming language if you change the syntax of the loop (for, while) and if-else
+
+Matrix illustration 5x5.
+1  1  1  1  1
+2  2  2  2  2
+3  3  3  3  3
+4  4  4  4  4
+5  5  5  5  5
+
+a)
+1
+   2
+      3
+         4
+            5
+b)
+1
+2  2
+3  3  3
+4  4  4  4
+5  5  5  5  5
+
+c)
+            1
+         2  2
+      3  3  3
+   4  4  4  4
+5  5  5  5  5
+
+d)
+1
+2  2
+3  3  3
+4  4
+5
+
+e)
+            1
+         2  2
+      3  3  3
+         4  4
+            5
+
+f)        
+1     1     1
+   2     2
+3     3     3
+   4     4
+5     5     5
+
+g)
+1           5
+2  2     4  4
+3  3  3  3  3
+4  4     2  2
+5           1
+
+h)
+1  1  1  1  1
+   2  2  2
+      3
+   4  4  4
+5  5  5  5  5
+
+i)
+      1      
+   2  2  2   
+3  3  3  3  3
+   4  4  4   
+      5      
+
